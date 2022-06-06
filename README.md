@@ -1,4 +1,4 @@
-# Book Shelf | Mono repo | FullStack
+# Book Shelf | Mono repo | FullStack - Soundarya
 
 #### The application is built using Lerna, JavaScript, TypeScript NodeJS, ReactJS, Redux, MongoDB
 
